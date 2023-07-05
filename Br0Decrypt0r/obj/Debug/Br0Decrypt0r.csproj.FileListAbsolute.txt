@@ -1,0 +1,11 @@
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\bin\Debug\Br0Decrypt0r.exe.config
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\bin\Debug\Br0Decrypt0r.exe
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\bin\Debug\Br0Decrypt0r.pdb
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.csproj.AssemblyReference.cache
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.Form1.resources
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.Properties.Resources.resources
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.exe
+C:\Users\Michał\source\repos\Br0Decrypt0r\Br0Decrypt0r\obj\Debug\Br0Decrypt0r.pdb
