@@ -3,4 +3,5 @@ Br0 is a virus. Yeah, thats all
 # Supported OS's
 Works with Windows 7, buggy on 8/8.1. Untested on Windows 10/11/Vista  
 and doesn't work with Windows XP or lower. 
-# Screenshots
+# Requirements
+- .NET Framework 4.7.5  
