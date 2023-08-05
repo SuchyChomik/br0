@@ -1,3 +1,4 @@
+![IsSupported](https://img.shields.io/badge/supported:-no-red)
 # What is Br0?
 Br0 is a virus. Yeah, thats all
 # Supported OS's
